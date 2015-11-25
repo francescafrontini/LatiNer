@@ -1,0 +1,1811 @@
+<dictionary>
+<entry tags="location">
+<token>Antipolis</token>
+</entry>
+<entry tags="location">
+<token>Comedus</token>
+</entry>
+<entry tags="location">
+<token>Castalia</token>
+</entry>
+<entry tags="location">
+<token>Sele</token>
+</entry>
+<entry tags="location">
+<token>Victa</token>
+</entry>
+<entry tags="location">
+<token>Aenus</token>
+</entry>
+<entry tags="location">
+<token>Thilsaphata</token>
+</entry>
+<entry tags="location">
+<token>Emissa</token>
+</entry>
+<entry tags="location">
+<token>Parthiscus</token>
+</entry>
+<entry tags="location">
+<token>Vatrachites</token>
+</entry>
+<entry tags="location">
+<token>Bura</token>
+</entry>
+<entry tags="location">
+<token>Catadupi</token>
+</entry>
+<entry tags="location">
+<token>Nemetae</token>
+</entry>
+<entry tags="location">
+<token>Naphtha</token>
+</entry>
+<entry tags="location">
+<token>Maogamalcha</token>
+</entry>
+<entry tags="location">
+<token>Berenice</token>
+</entry>
+<entry tags="location">
+<token>Neapolis</token>
+</entry>
+<entry tags="location">
+<token>Tyros</token>
+</entry>
+<entry tags="location">
+<token>Athyras</token>
+</entry>
+<entry tags="location">
+<token>Axius</token>
+</entry>
+<entry tags="location">
+<token>Geapolis</token>
+</entry>
+<entry tags="location">
+<token>Menapila</token>
+</entry>
+<entry tags="location">
+<token>Opurocarra</token>
+</entry>
+<entry tags="location">
+<token>Cius</token>
+</entry>
+<entry tags="location">
+<token>Rhodes</token>
+</entry>
+<entry tags="location">
+<token>Tomi</token>
+</entry>
+<entry tags="location">
+<token>Syene</token>
+</entry>
+<entry tags="location">
+<token>Cyrene</token>
+</entry>
+<entry tags="location">
+<token>Bactra</token>
+</entry>
+<entry tags="location">
+<token>Toxandria</token>
+</entry>
+<entry tags="location">
+<token>Mesopotamia</token>
+</entry>
+<entry tags="location">
+<token>Catalauni</token>
+</entry>
+<entry tags="location">
+<token>Astacus</token>
+</entry>
+<entry tags="location">
+<token>Choaspa</token>
+</entry>
+<entry tags="location">
+<token>Hydrus</token>
+</entry>
+<entry tags="location">
+<token>Bizes</token>
+</entry>
+<entry tags="location">
+<token>Zariaspes</token>
+</entry>
+<entry tags="location">
+<token>Tiposa</token>
+</entry>
+<entry tags="location">
+<token>Drepsa</token>
+</entry>
+<entry tags="location">
+<token>Campi Martii</token>
+</entry>
+<entry tags="location">
+<token>Caucalandes</token>
+</entry>
+<entry tags="location">
+<token>Abydos</token>
+</entry>
+<entry tags="location">
+<token>Moesia</token>
+</entry>
+<entry tags="location">
+<token>Constantinopolis</token>
+</entry>
+<entry tags="location">
+<token>Tricesimae</token>
+</entry>
+<entry tags="location">
+<token>Palea</token>
+</entry>
+<entry tags="location">
+<token>Brigantia</token>
+</entry>
+<entry tags="location">
+<token>Senones</token>
+</entry>
+<entry tags="location">
+<token>Maximianopolis</token>
+</entry>
+<entry tags="location">
+<token>Cibalae</token>
+</entry>
+<entry tags="location">
+<token>Barzala</token>
+</entry>
+<entry tags="location">
+<token>Asmira</token>
+</entry>
+<entry tags="location">
+<token>Rebas</token>
+</entry>
+<entry tags="location">
+<token>Tubusuptum</token>
+</entry>
+<entry tags="location">
+<token>Isauria</token>
+</entry>
+<entry tags="location">
+<token>Saccumum</token>
+</entry>
+<entry tags="location">
+<token>Turgana</token>
+</entry>
+<entry tags="location">
+<token>Hileia</token>
+</entry>
+<entry tags="location">
+<token>Libya</token>
+</entry>
+<entry tags="location">
+<token>Talicus</token>
+</entry>
+<entry tags="location">
+<token>Cassius</token>
+</entry>
+<entry tags="location">
+<token>Philistion</token>
+</entry>
+<entry tags="location">
+<token>Chaldaea</token>
+</entry>
+<entry tags="location">
+<token>Cassium</token>
+</entry>
+<entry tags="location">
+<token>Saulieu</token>
+</entry>
+<entry tags="location">
+<token>Uscudama</token>
+</entry>
+<entry tags="location">
+<token>Mursa</token>
+</entry>
+<entry tags="location">
+<token>Narbona</token>
+</entry>
+<entry tags="location">
+<token>Sequana</token>
+</entry>
+<entry tags="location">
+<token>Baraba</token>
+</entry>
+<entry tags="location">
+<token>Lorne</token>
+</entry>
+<entry tags="location">
+<token>Arsiana</token>
+</entry>
+<entry tags="location">
+<token>Aventicum</token>
+</entry>
+<entry tags="location">
+<token>Lemnos</token>
+</entry>
+<entry tags="location">
+<token>Arabis</token>
+</entry>
+<entry tags="location">
+<token>Thracia</token>
+</entry>
+<entry tags="location">
+<token>Bezabde</token>
+</entry>
+<entry tags="location">
+<token>Decem Pagi</token>
+</entry>
+<entry tags="location">
+<token>Arabia</token>
+</entry>
+<entry tags="location">
+<token>Helenopolis</token>
+</entry>
+<entry tags="location">
+<token>Ceras</token>
+</entry>
+<entry tags="location">
+<token>Pannonia</token>
+</entry>
+<entry tags="location">
+<token>Agabana</token>
+</entry>
+<entry tags="location">
+<token>Peuce</token>
+</entry>
+<entry tags="location">
+<token>Bagrada</token>
+</entry>
+<entry tags="location">
+<token>Neo-Caesarea</token>
+</entry>
+<entry tags="location">
+<token>Apamia</token>
+</entry>
+<entry tags="location">
+<token>Stagira</token>
+</entry>
+<entry tags="location">
+<token>Ecbatana</token>
+</entry>
+<entry tags="location">
+<token>Euses</token>
+</entry>
+<entry tags="location">
+<token>Marses</token>
+</entry>
+<entry tags="location">
+<token>Chronius</token>
+</entry>
+<entry tags="location">
+<token>Patigran</token>
+</entry>
+<entry tags="location">
+<token>Hiaspis</token>
+</entry>
+<entry tags="location">
+<token>Opitergium</token>
+</entry>
+<entry tags="location">
+<token>Rothomagi</token>
+</entry>
+<entry tags="location">
+<token>Media</token>
+</entry>
+<entry tags="location">
+<token>Memphis</token>
+</entry>
+<entry tags="location">
+<token>Iris</token>
+</entry>
+<entry tags="location">
+<token>Ninus</token>
+</entry>
+<entry tags="location">
+<token>Laranda</token>
+</entry>
+<entry tags="location">
+<token>Moxoëne</token>
+</entry>
+<entry tags="location">
+<token>Prophthasia</token>
+</entry>
+<entry tags="location">
+<token>Rhenus</token>
+</entry>
+<entry tags="location">
+<token>Antoninupolis</token>
+</entry>
+<entry tags="location">
+<token>Maces</token>
+</entry>
+<entry tags="location">
+<token>Cydnus</token>
+</entry>
+<entry tags="location">
+<token>Robur</token>
+</entry>
+<entry tags="location">
+<token>Mazaca</token>
+</entry>
+<entry tags="location">
+<token>Abora</token>
+</entry>
+<entry tags="location">
+<token>Saga</token>
+</entry>
+<entry tags="location">
+<token>Hatra</token>
+</entry>
+<entry tags="location">
+<token>Brocomagus</token>
+</entry>
+<entry tags="location">
+<token>Pentapolis</token>
+</entry>
+<entry tags="location">
+<token>Elephantine</token>
+</entry>
+<entry tags="location">
+<token>Celse</token>
+</entry>
+<entry tags="location">
+<token>Helice</token>
+</entry>
+<entry tags="location">
+<token>Borion</token>
+</entry>
+<entry tags="location">
+<token>Cantichus</token>
+</entry>
+<entry tags="location">
+<token>Acheron</token>
+</entry>
+<entry tags="location">
+<token>Velia</token>
+</entry>
+<entry tags="location">
+<token>Nascon</token>
+</entry>
+<entry tags="location">
+<token>Hyrcania</token>
+</entry>
+<entry tags="location">
+<token>Orchomanes</token>
+</entry>
+<entry tags="location">
+<token>Medianum</token>
+</entry>
+<entry tags="location">
+<token>Saganis</token>
+</entry>
+<entry tags="location">
+<token>Cyropolis</token>
+</entry>
+<entry tags="location">
+<token>Arbaca</token>
+</entry>
+<entry tags="location">
+<token>Azov</token>
+</entry>
+<entry tags="location">
+<token>Germania</token>
+</entry>
+<entry tags="location">
+<token>Bisuntinus</token>
+</entry>
+<entry tags="location">
+<token>Hadrianopolis</token>
+</entry>
+<entry tags="location">
+<token>Thynia</token>
+</entry>
+<entry tags="location">
+<token>Erythrae</token>
+</entry>
+<entry tags="location">
+<token>Artemis</token>
+</entry>
+<entry tags="location">
+<token>Castra Herculis</token>
+</entry>
+<entry tags="location">
+<token>Carnuntum</token>
+</entry>
+<entry tags="location">
+<token>Alicodra</token>
+</entry>
+<entry tags="location">
+<token>Bonna</token>
+</entry>
+<entry tags="location">
+<token>Meseus</token>
+</entry>
+<entry tags="location">
+<token>Pessinus</token>
+</entry>
+<entry tags="location">
+<token>Sagareus</token>
+</entry>
+<entry tags="location">
+<token>Diabas</token>
+</entry>
+<entry tags="location">
+<token>Arethusa</token>
+</entry>
+<entry tags="location">
+<token>Batne</token>
+</entry>
+<entry tags="location">
+<token>Genonia</token>
+</entry>
+<entry tags="location">
+<token>Laodicea</token>
+</entry>
+<entry tags="location">
+<token>Assyria</token>
+</entry>
+<entry tags="location">
+<token>Hiberia</token>
+</entry>
+<entry tags="location">
+<token>Dura</token>
+</entry>
+<entry tags="location">
+<token>Thebes</token>
+</entry>
+<entry tags="location">
+<token>Cabyle</token>
+</entry>
+<entry tags="location">
+<token>Sisara</token>
+</entry>
+<entry tags="location">
+<token>Dindyma</token>
+</entry>
+<entry tags="location">
+<token>Claros</token>
+</entry>
+<entry tags="location">
+<token>Aracha</token>
+</entry>
+<entry tags="location">
+<token>Rehemena</token>
+</entry>
+<entry tags="location">
+<token>Amastris</token>
+</entry>
+<entry tags="location">
+<token>Philippopolis</token>
+</entry>
+<entry tags="location">
+<token>Charax</token>
+</entry>
+<entry tags="location">
+<token>Nicaea</token>
+</entry>
+<entry tags="location">
+<token>Atlas</token>
+</entry>
+<entry tags="location">
+<token>Arias</token>
+</entry>
+<entry tags="location">
+<token>Sanctio</token>
+</entry>
+<entry tags="location">
+<token>Selymbria</token>
+</entry>
+<entry tags="location">
+<token>Emodon</token>
+</entry>
+<entry tags="location">
+<token>Bostra</token>
+</entry>
+<entry tags="location">
+<token>Hierapolis</token>
+</entry>
+<entry tags="location">
+<token>Dorostorus</token>
+</entry>
+<entry tags="location">
+<token>Libyssa</token>
+</entry>
+<entry tags="location">
+<token>Marcianopolis</token>
+</entry>
+<entry tags="location">
+<token>Tingetanum</token>
+</entry>
+<entry tags="location">
+<token>Bingium</token>
+</entry>
+<entry tags="location">
+<token>Sosingites</token>
+</entry>
+<entry tags="location">
+<token>Barbitani</token>
+</entry>
+<entry tags="location">
+<token>Transcellensis</token>
+</entry>
+<entry tags="location">
+<token>Caeni Gallici</token>
+</entry>
+<entry tags="location">
+<token>Histros</token>
+</entry>
+<entry tags="location">
+<token>Thasos</token>
+</entry>
+<entry tags="location">
+<token>Oxus</token>
+</entry>
+<entry tags="location">
+<token>Burdegala</token>
+</entry>
+<entry tags="location">
+<token>Artabius</token>
+</entry>
+<entry tags="location">
+<token>Tigris</token>
+</entry>
+<entry tags="location">
+<token>Amida</token>
+</entry>
+<entry tags="location">
+<token>Cyclades</token>
+</entry>
+<entry tags="location">
+<token>Acherusium</token>
+</entry>
+<entry tags="location">
+<token>Sirmium</token>
+</entry>
+<entry tags="location">
+<token>Amudin</token>
+</entry>
+<entry tags="location">
+<token>Rha</token>
+</entry>
+<entry tags="location">
+<token>Amudis</token>
+</entry>
+<entry tags="location">
+<token>Roma</token>
+</entry>
+<entry tags="location">
+<token>Iasonium</token>
+</entry>
+<entry tags="location">
+<token>Dioscurias</token>
+</entry>
+<entry tags="location">
+<token>Cyreschata</token>
+</entry>
+<entry tags="location">
+<token>Coronus</token>
+</entry>
+<entry tags="location">
+<token>Mephra</token>
+</entry>
+<entry tags="location">
+<token>Nagara</token>
+</entry>
+<entry tags="location">
+<token>Teredon</token>
+</entry>
+<entry tags="location">
+<token>Synhorium</token>
+</entry>
+<entry tags="location">
+<token>Pola</token>
+</entry>
+<entry tags="location">
+<token>Achaiachala</token>
+</entry>
+<entry tags="location">
+<token>Sapaudia</token>
+</entry>
+<entry tags="location">
+<token>Melas</token>
+</entry>
+<entry tags="location">
+<token>Areopagus</token>
+</entry>
+<entry tags="location">
+<token>Mauritania</token>
+</entry>
+<entry tags="location">
+<token>Cilicia</token>
+</entry>
+<entry tags="location">
+<token>Tripoli</token>
+</entry>
+<entry tags="location">
+<token>Damascus</token>
+</entry>
+<entry tags="location">
+<token>Crissaean</token>
+</entry>
+<entry tags="location">
+<token>Araxates</token>
+</entry>
+<entry tags="location">
+<token>Cabillonum</token>
+</entry>
+<entry tags="location">
+<token>Charcha</token>
+</entry>
+<entry tags="location">
+<token>Charte</token>
+</entry>
+<entry tags="location">
+<token>Iconium</token>
+</entry>
+<entry tags="location">
+<token>Rauracum</token>
+</entry>
+<entry tags="location">
+<token>Felicis Arboris</token>
+</entry>
+<entry tags="location">
+<token>Sinope</token>
+</entry>
+<entry tags="location">
+<token>Zeugma</token>
+</entry>
+<entry tags="location">
+<token>Polemonium</token>
+</entry>
+<entry tags="location">
+<token>Maraeccus</token>
+</entry>
+<entry tags="location">
+<token>Ascalon</token>
+</entry>
+<entry tags="location">
+<token>Valeria</token>
+</entry>
+<entry tags="location">
+<token>Oroates</token>
+</entry>
+<entry tags="location">
+<token>Arcadius</token>
+</entry>
+<entry tags="location">
+<token>Ciminian</token>
+</entry>
+<entry tags="location">
+<token>Naharmalcha</token>
+</entry>
+<entry tags="location">
+<token>Callichorus</token>
+</entry>
+<entry tags="location">
+<token>Lycaonia</token>
+</entry>
+<entry tags="location">
+<token>Bitaxa</token>
+</entry>
+<entry tags="location">
+<token>Salices</token>
+</entry>
+<entry tags="location">
+<token>Callipolis</token>
+</entry>
+<entry tags="location">
+<token>Amanus</token>
+</entry>
+<entry tags="location">
+<token>Avernus</token>
+</entry>
+<entry tags="location">
+<token>Oropus</token>
+</entry>
+<entry tags="location">
+<token>Mediolanum</token>
+</entry>
+<entry tags="location">
+<token>Bisula</token>
+</entry>
+<entry tags="location">
+<token>Sporades</token>
+</entry>
+<entry tags="location">
+<token>Acone</token>
+</entry>
+<entry tags="location">
+<token>Pylae</token>
+</entry>
+<entry tags="location">
+<token>Sotera</token>
+</entry>
+<entry tags="location">
+<token>Pantheon</token>
+</entry>
+<entry tags="location">
+<token>Calatis</token>
+</entry>
+<entry tags="location">
+<token>Dionysiopolis</token>
+</entry>
+<entry tags="location">
+<token>Beraea</token>
+</entry>
+<entry tags="location">
+<token>Igilgitanum</token>
+</entry>
+<entry tags="location">
+<token>Antiochia</token>
+</entry>
+<entry tags="location">
+<token>Corduena</token>
+</entry>
+<entry tags="location">
+<token>Abydum</token>
+</entry>
+<entry tags="location">
+<token>Ortogordomaris</token>
+</entry>
+<entry tags="location">
+<token>Chalcedon</token>
+</entry>
+<entry tags="location">
+<token>Syria</token>
+</entry>
+<entry tags="location">
+<token>Anniba</token>
+</entry>
+<entry tags="location">
+<token>Ariaspe</token>
+</entry>
+<entry tags="location">
+<token>Selca Themiscyra</token>
+</entry>
+<entry tags="location">
+<token>Fara</token>
+</entry>
+<entry tags="location">
+<token>Capessana</token>
+</entry>
+<entry tags="location">
+<token>Zombis</token>
+</entry>
+<entry tags="location">
+<token>Triaesinae</token>
+</entry>
+<entry tags="location">
+<token>Ferratus</token>
+</entry>
+<entry tags="location">
+<token>Mygdonia</token>
+</entry>
+<entry tags="location">
+<token>Corax</token>
+</entry>
+<entry tags="location">
+<token>Patares</token>
+</entry>
+<entry tags="location">
+<token>Azmorna</token>
+</entry>
+<entry tags="location">
+<token>Chauriana</token>
+</entry>
+<entry tags="location">
+<token>Succi</token>
+</entry>
+<entry tags="location">
+<token>Phocus</token>
+</entry>
+<entry tags="location">
+<token>Daphne</token>
+</entry>
+<entry tags="location">
+<token>Chalites</token>
+</entry>
+<entry tags="location">
+<token>Davana</token>
+</entry>
+<entry tags="location">
+<token>Thermodon</token>
+</entry>
+<entry tags="location">
+<token>Dardanus</token>
+</entry>
+<entry tags="location">
+<token>Mimas</token>
+</entry>
+<entry tags="location">
+<token>Leptis</token>
+</entry>
+<entry tags="location">
+<token>Ona</token>
+</entry>
+<entry tags="location">
+<token>Canopus</token>
+</entry>
+<entry tags="location">
+<token>Diogenes</token>
+</entry>
+<entry tags="location">
+<token>Bosporus</token>
+</entry>
+<entry tags="location">
+<token>Carrae</token>
+</entry>
+<entry tags="location">
+<token>Philadelphia</token>
+</entry>
+<entry tags="location">
+<token>Maxera</token>
+</entry>
+<entry tags="location">
+<token>Nisibis</token>
+</entry>
+<entry tags="location">
+<token>Gerasa</token>
+</entry>
+<entry tags="location">
+<token>Astacea</token>
+</entry>
+<entry tags="location">
+<token>Nymphaeum</token>
+</entry>
+<entry tags="location">
+<token>Arar</token>
+</entry>
+<entry tags="location">
+<token>Lemanus</token>
+</entry>
+<entry tags="location">
+<token>Mothone</token>
+</entry>
+<entry tags="location">
+<token>Mariandena</token>
+</entry>
+<entry tags="location">
+<token>Harmozon</token>
+</entry>
+<entry tags="location">
+<token>Petobio</token>
+</entry>
+<entry tags="location">
+<token>Ziata</token>
+</entry>
+<entry tags="location">
+<token>Nisaea</token>
+</entry>
+<entry tags="location">
+<token>Mediomatricum</token>
+</entry>
+<entry tags="location">
+<token>Brisoana</token>
+</entry>
+<entry tags="location">
+<token>Germanicopolis</token>
+</entry>
+<entry tags="location">
+<token>Thule</token>
+</entry>
+<entry tags="location">
+<token>Piri</token>
+</entry>
+<entry tags="location">
+<token>Danubius</token>
+</entry>
+<entry tags="location">
+<token>Paraetonium</token>
+</entry>
+<entry tags="location">
+<token>Scythia</token>
+</entry>
+<entry tags="location">
+<token>Cynossema</token>
+</entry>
+<entry tags="location">
+<token>Anazarbus</token>
+</entry>
+<entry tags="location">
+<token>Constantina</token>
+</entry>
+<entry tags="location">
+<token>Castra Maurorum</token>
+</entry>
+<entry tags="location">
+<token>Tarsus</token>
+</entry>
+<entry tags="location">
+<token>Hecatompylos</token>
+</entry>
+<entry tags="location">
+<token>Sole</token>
+</entry>
+<entry tags="location">
+<token>Roemnus</token>
+</entry>
+<entry tags="location">
+<token>Cyzicus</token>
+</entry>
+<entry tags="location">
+<token>Capellatum</token>
+</entry>
+<entry tags="location">
+<token>Leuce</token>
+</entry>
+<entry tags="location">
+<token>Aulon</token>
+</entry>
+<entry tags="location">
+<token>Tibris</token>
+</entry>
+<entry tags="location">
+<token>Bautis</token>
+</entry>
+<entry tags="location">
+<token>Ochus</token>
+</entry>
+<entry tags="location">
+<token>Pelusium</token>
+</entry>
+<entry tags="location">
+<token>Aquileia</token>
+</entry>
+<entry tags="location">
+<token>Theophanes</token>
+</entry>
+<entry tags="location">
+<token>Ambians</token>
+</entry>
+<entry tags="location">
+<token>Oxyrynchus</token>
+</entry>
+<entry tags="location">
+<token>Phrygia</token>
+</entry>
+<entry tags="location">
+<token>Chaerecla</token>
+</entry>
+<entry tags="location">
+<token>Novesium</token>
+</entry>
+<entry tags="location">
+<token>Meiacarire</token>
+</entry>
+<entry tags="location">
+<token>Nacolia</token>
+</entry>
+<entry tags="location">
+<token>Nymphaeus</token>
+</entry>
+<entry tags="location">
+<token>Calicadnus</token>
+</entry>
+<entry tags="location">
+<token>Pharos</token>
+</entry>
+<entry tags="location">
+<token>Ostracine</token>
+</entry>
+<entry tags="location">
+<token>Athos</token>
+</entry>
+<entry tags="location">
+<token>Coche</token>
+</entry>
+<entry tags="location">
+<token>Saramanna</token>
+</entry>
+<entry tags="location">
+<token>Colonia Agrippina</token>
+</entry>
+<entry tags="location">
+<token>Augusta Londinium</token>
+</entry>
+<entry tags="location">
+<token>Arachotoscrenem</token>
+</entry>
+<entry tags="location">
+<token>Sabaria</token>
+</entry>
+<entry tags="location">
+<token>Teuchira</token>
+</entry>
+<entry tags="location">
+<token>Lampsacus</token>
+</entry>
+<entry tags="location">
+<token>Heraclea</token>
+</entry>
+<entry tags="location">
+<token>Parthia</token>
+</entry>
+<entry tags="location">
+<token>Apollonia</token>
+</entry>
+<entry tags="location">
+<token>Hermonassa</token>
+</entry>
+<entry tags="location">
+<token>Chiliocomus</token>
+</entry>
+<entry tags="location">
+<token>Ocriculum</token>
+</entry>
+<entry tags="location">
+<token>Maronea</token>
+</entry>
+<entry tags="location">
+<token>Cerasus</token>
+</entry>
+<entry tags="location">
+<token>Carambis</token>
+</entry>
+<entry tags="location">
+<token>Melitina</token>
+</entry>
+<entry tags="location">
+<token>Asia Minor</token>
+</entry>
+<entry tags="location">
+<token>Gallia</token>
+</entry>
+<entry tags="location">
+<token>Novidunum</token>
+</entry>
+<entry tags="location">
+<token>Abarne</token>
+</entry>
+<entry tags="location">
+<token>Dibaltum</token>
+</entry>
+<entry tags="location">
+<token>Arsacia</token>
+</entry>
+<entry tags="location">
+<token>Thmuis</token>
+</entry>
+<entry tags="location">
+<token>Duodiense</token>
+</entry>
+<entry tags="location">
+<token>Ortopana</token>
+</entry>
+<entry tags="location">
+<token>Caphareus</token>
+</entry>
+<entry tags="location">
+<token>Bithynia</token>
+</entry>
+<entry tags="location">
+<token>Hiera</token>
+</entry>
+<entry tags="location">
+<token>Babylon</token>
+</entry>
+<entry tags="location">
+<token>Maride</token>
+</entry>
+<entry tags="location">
+<token>Ascanimia</token>
+</entry>
+<entry tags="location">
+<token>Arachosia</token>
+</entry>
+<entry tags="location">
+<token>Mesene</token>
+</entry>
+<entry tags="location">
+<token>Hypanis</token>
+</entry>
+<entry tags="location">
+<token>Sedratyra</token>
+</entry>
+<entry tags="location">
+<token>Ariana</token>
+</entry>
+<entry tags="location">
+<token>Symplegades</token>
+</entry>
+<entry tags="location">
+<token>Pityus</token>
+</entry>
+<entry tags="location">
+<token>Gallus</token>
+</entry>
+<entry tags="location">
+<token>Oea</token>
+</entry>
+<entry tags="location">
+<token>Bononia</token>
+</entry>
+<entry tags="location">
+<token>Serdica</token>
+</entry>
+<entry tags="location">
+<token>Amisus</token>
+</entry>
+<entry tags="location">
+<token>Horre</token>
+</entry>
+<entry tags="location">
+<token>Icosium</token>
+</entry>
+<entry tags="location">
+<token>Tios</token>
+</entry>
+<entry tags="location">
+<token>Augustamnica</token>
+</entry>
+<entry tags="location">
+<token>Gynaecon</token>
+</entry>
+<entry tags="location">
+<token>Arbela</token>
+</entry>
+<entry tags="location">
+<token>Nicomedia</token>
+</entry>
+<entry tags="location">
+<token>Asparata</token>
+</entry>
+<entry tags="location">
+<token>Persepolis</token>
+</entry>
+<entry tags="location">
+<token>Izala</token>
+</entry>
+<entry tags="location">
+<token>Mopsuestia</token>
+</entry>
+<entry tags="location">
+<token>Adiabena</token>
+</entry>
+<entry tags="location">
+<token>Gallonatis</token>
+</entry>
+<entry tags="location">
+<token>Sogdiana</token>
+</entry>
+<entry tags="location">
+<token>Osdroene</token>
+</entry>
+<entry tags="location">
+<token>Proconnesus</token>
+</entry>
+<entry tags="location">
+<token>Obroatis</token>
+</entry>
+<entry tags="location">
+<token>Laudias</token>
+</entry>
+<entry tags="location">
+<token>Emona</token>
+</entry>
+<entry tags="location">
+<token>Heliopolis</token>
+</entry>
+<entry tags="location">
+<token>Choaspes</token>
+</entry>
+<entry tags="location">
+<token>Taphra</token>
+</entry>
+<entry tags="location">
+<token>Pelagia</token>
+</entry>
+<entry tags="location">
+<token>Caela</token>
+</entry>
+<entry tags="location">
+<token>Lesbos</token>
+</entry>
+<entry tags="location">
+<token>Alpheus</token>
+</entry>
+<entry tags="location">
+<token>Mosa</token>
+</entry>
+<entry tags="location">
+<token>Antinous</token>
+</entry>
+<entry tags="location">
+<token>Phasis</token>
+</entry>
+<entry tags="location">
+<token>Sangarius</token>
+</entry>
+<entry tags="location">
+<token>Bebrycia</token>
+</entry>
+<entry tags="location">
+<token>Gedrosia</token>
+</entry>
+<entry tags="location">
+<token>Naesus</token>
+</entry>
+<entry tags="location">
+<token>Totordanes</token>
+</entry>
+<entry tags="location">
+<token>Aegaeum</token>
+</entry>
+<entry tags="location">
+<token>Singara,</token>
+</entry>
+<entry tags="location">
+<token>Acimincum</token>
+</entry>
+<entry tags="location">
+<token>Bebase</token>
+</entry>
+<entry tags="location">
+<token>Monaecus</token>
+</entry>
+<entry tags="location">
+<token>Vangiones</token>
+</entry>
+<entry tags="location">
+<token>Harax</token>
+</entry>
+<entry tags="location">
+<token>Subicarense</token>
+</entry>
+<entry tags="location">
+<token>Ozogardana</token>
+</entry>
+<entry tags="location">
+<token>Tenedos</token>
+</entry>
+<entry tags="location">
+<token>Tricapae</token>
+</entry>
+<entry tags="location">
+<token>Eleusis</token>
+</entry>
+<entry tags="location">
+<token>Ophiusa</token>
+</entry>
+<entry tags="location">
+<token>Misopogon</token>
+</entry>
+<entry tags="location">
+<token>Sumere</token>
+</entry>
+<entry tags="location">
+<token>Druentia</token>
+</entry>
+<entry tags="location">
+<token>Hibita</token>
+</entry>
+<entry tags="location">
+<token>Atropatenae</token>
+</entry>
+<entry tags="location">
+<token>Euphrates</token>
+</entry>
+<entry tags="location">
+<token>Samosata</token>
+</entry>
+<entry tags="location">
+<token>Serica</token>
+</entry>
+<entry tags="location">
+<token>Pirisabora</token>
+</entry>
+<entry tags="location">
+<token>Anaphe</token>
+</entry>
+<entry tags="location">
+<token>Criu-Metopon</token>
+</entry>
+<entry tags="location">
+<token>Cyprus</token>
+</entry>
+<entry tags="location">
+<token>Zagrus</token>
+</entry>
+<entry tags="location">
+<token>Tipata</token>
+</entry>
+<entry tags="location">
+<token>Tres Tabernas</token>
+</entry>
+<entry tags="location">
+<token>Rutupiae</token>
+</entry>
+<entry tags="location">
+<token>Doriscus</token>
+</entry>
+<entry tags="location">
+<token>Ambianis</token>
+</entry>
+<entry tags="location">
+<token>Ardea</token>
+</entry>
+<entry tags="location">
+<token>Eleutheropolis</token>
+</entry>
+<entry tags="location">
+<token>Gazaca</token>
+</entry>
+<entry tags="location">
+<token>Addense</token>
+</entry>
+<entry tags="location">
+<token>Adiabas</token>
+</entry>
+<entry tags="location">
+<token>Palaestina</token>
+</entry>
+<entry tags="location">
+<token>Phyllis</token>
+</entry>
+<entry tags="location">
+<token>Reman</token>
+</entry>
+<entry tags="location">
+<token>Virgantia</token>
+</entry>
+<entry tags="location">
+<token>Choatres</token>
+</entry>
+<entry tags="location">
+<token>Autosidorum</token>
+</entry>
+<entry tags="location">
+<token>Hebrus</token>
+</entry>
+<entry tags="location">
+<token>Ctesiphon</token>
+</entry>
+<entry tags="location">
+<token>Niphates</token>
+</entry>
+<entry tags="location">
+<token>Nicopolis</token>
+</entry>
+<entry tags="location">
+<token>Persia</token>
+</entry>
+<entry tags="location">
+<token>Aspabota</token>
+</entry>
+<entry tags="location">
+<token>Drangiana</token>
+</entry>
+<entry tags="location">
+<token>Agazaca</token>
+</entry>
+<entry tags="location">
+<token>Phanagorus</token>
+</entry>
+<entry tags="location">
+<token>Naessus</token>
+</entry>
+<entry tags="location">
+<token>Trapezus</token>
+</entry>
+<entry tags="location">
+<token>Tolosa</token>
+</entry>
+<entry tags="location">
+<token>Dymas</token>
+</entry>
+<entry tags="location">
+<token>Nilus</token>
+</entry>
+<entry tags="location">
+<token>Vasatae</token>
+</entry>
+<entry tags="location">
+<token>Alpes</token>
+</entry>
+<entry tags="location">
+<token>Paraxmalcha</token>
+</entry>
+<entry tags="location">
+<token>Armonius</token>
+</entry>
+<entry tags="location">
+<token>Ticinum</token>
+</entry>
+<entry tags="location">
+<token>Chrysopolis</token>
+</entry>
+<entry tags="location">
+<token>Imbros</token>
+</entry>
+<entry tags="location">
+<token>Darnis</token>
+</entry>
+<entry tags="location">
+<token>Miletus</token>
+</entry>
+<entry tags="location">
+<token>Orontes</token>
+</entry>
+<entry tags="location">
+<token>Dacia</token>
+</entry>
+<entry tags="location">
+<token>Santones</token>
+</entry>
+<entry tags="location">
+<token>Epiphania</token>
+</entry>
+<entry tags="location">
+<token>Ierusalem</token>
+</entry>
+<entry tags="location">
+<token>Maranx</token>
+</entry>
+<entry tags="location">
+<token>Garumna</token>
+</entry>
+<entry tags="location">
+<token>Eupatoria</token>
+</entry>
+<entry tags="location">
+<token>Treviri</token>
+</entry>
+<entry tags="location">
+<token>Arbor Felix</token>
+</entry>
+<entry tags="location">
+<token>Anathan</token>
+</entry>
+<entry tags="location">
+<token>Hippocephalus</token>
+</entry>
+<entry tags="location">
+<token>Anzaba</token>
+</entry>
+<entry tags="location">
+<token>Arzanena</token>
+</entry>
+<entry tags="location">
+<token>Belias</token>
+</entry>
+<entry tags="location">
+<token>Anchialos</token>
+</entry>
+<entry tags="location">
+<token>Sidon</token>
+</entry>
+<entry tags="location">
+<token>Tragonice</token>
+</entry>
+<entry tags="location">
+<token>Carcinites</token>
+</entry>
+<entry tags="location">
+<token>Arsinoë</token>
+</entry>
+<entry tags="location">
+<token>Coptos</token>
+</entry>
+<entry tags="location">
+<token>Tungri</token>
+</entry>
+<entry tags="location">
+<token>Alexandria</token>
+</entry>
+<entry tags="location">
+<token>Artacana</token>
+</entry>
+<entry tags="location">
+<token>Seleucia</token>
+</entry>
+<entry tags="location">
+<token>Edessa</token>
+</entry>
+<entry tags="location">
+<token>Hucumbra</token>
+</entry>
+<entry tags="location">
+<token>Amardus</token>
+</entry>
+<entry tags="location">
+<token>Chartra</token>
+</entry>
+<entry tags="location">
+<token>Murocincta</token>
+</entry>
+<entry tags="location">
+<token>Laumellum</token>
+</entry>
+<entry tags="location">
+<token>Rogomanis</token>
+</entry>
+<entry tags="location">
+<token>Tigaviae</token>
+</entry>
+<entry tags="location">
+<token>Tanais</token>
+</entry>
+<entry tags="location">
+<token>Mygdus</token>
+</entry>
+<entry tags="location">
+<token>Rhombites</token>
+</entry>
+<entry tags="location">
+<token>Antennacum</token>
+</entry>
+<entry tags="location">
+<token>Vienna</token>
+</entry>
+<entry tags="location">
+<token>Pompei</token>
+</entry>
+<entry tags="location">
+<token>Drepanum</token>
+</entry>
+<entry tags="location">
+<token>Commagena</token>
+</entry>
+<entry tags="location">
+<token>Mopsucrenae</token>
+</entry>
+<entry tags="location">
+<token>Taurini</token>
+</entry>
+<entry tags="location">
+<token>Contensis</token>
+</entry>
+<entry tags="location">
+<token>Col. Arelate</token>
+</entry>
+<entry tags="location">
+<token>Armenia</token>
+</entry>
+<entry tags="location">
+<token>Natiso</token>
+</entry>
+<entry tags="location">
+<token>Sopianae</token>
+</entry>
+<entry tags="location">
+<token>Valentia</token>
+</entry>
+<entry tags="location">
+<token>Anatha</token>
+</entry>
+<entry tags="location">
+<token>Ur</token>
+</entry>
+<entry tags="location">
+<token>Maeotis Palus</token>
+</entry>
+<entry tags="location">
+<token>Remi</token>
+</entry>
+<entry tags="location">
+<token>Hydriacus</token>
+</entry>
+<entry tags="location">
+<token>Capersana</token>
+</entry>
+<entry tags="location">
+<token>Melanthias</token>
+</entry>
+<entry tags="location">
+<token>Macepracta</token>
+</entry>
+<entry tags="location">
+<token>Besa</token>
+</entry>
+<entry tags="location">
+<token>Parion</token>
+</entry>
+<entry tags="location">
+<token>Europos</token>
+</entry>
+<entry tags="location">
+<token>Rigomagum</token>
+</entry>
+<entry tags="location">
+<token>Busan</token>
+</entry>
+<entry tags="location">
+<token>Lentia</token>
+</entry>
+<entry tags="location">
+<token>Argaeus</token>
+</entry>
+<entry tags="location">
+<token>Nazavicium</token>
+</entry>
+<entry tags="location">
+<token>Rhinocolura</token>
+</entry>
+<entry tags="location">
+<token>Parthenius</token>
+</entry>
+<entry tags="location">
+<token>Claudiopolis</token>
+</entry>
+<entry tags="location">
+<token>Comum</token>
+</entry>
+<entry tags="location">
+<token>Salamis</token>
+</entry>
+<entry tags="location">
+<token>Caesariensis</token>
+</entry>
+<entry tags="location">
+<token>Seckingen</token>
+</entry>
+<entry tags="location">
+<token>Portospana</token>
+</entry>
+<entry tags="location">
+<token>Dandaca</token>
+</entry>
+<entry tags="location">
+<token>Cephalonesus</token>
+</entry>
+<entry tags="location">
+<token>Acontisma</token>
+</entry>
+<entry tags="location">
+<token>Tapurian</token>
+</entry>
+<entry tags="location">
+<token>Gyndes</token>
+</entry>
+<entry tags="location">
+<token>Gaugamela</token>
+</entry>
+<entry tags="location">
+<token>Hesperides</token>
+</entry>
+<entry tags="location">
+<token>Artogerassa</token>
+</entry>
+<entry tags="location">
+<token>Ancyra</token>
+</entry>
+<entry tags="location">
+<token>Abdera</token>
+</entry>
+<entry tags="location">
+<token>Thilutha</token>
+</entry>
+<entry tags="location">
+<token>Moguntiacus</token>
+</entry>
+<entry tags="location">
+<token>Sitifis</token>
+</entry>
+<entry tags="location">
+<token>Mnevis</token>
+</entry>
+<entry tags="location">
+<token>Argentoratum</token>
+</entry>
+<entry tags="location">
+<token>Ausci</token>
+</entry>
+<entry tags="location">
+<token>Lugdunum</token>
+</entry>
+<entry tags="location">
+<token>Athribis</token>
+</entry>
+<entry tags="location">
+<token>Sugarbarritanum</token>
+</entry>
+<entry tags="location">
+<token>Lazica</token>
+</entry>
+<entry tags="location">
+<token>Lacotene</token>
+</entry>
+<entry tags="location">
+<token>Boae</token>
+</entry>
+<entry tags="location">
+<token>Britain</token>
+</entry>
+<entry tags="location">
+<token>Socunda</token>
+</entry>
+<entry tags="location">
+<token>Meroe</token>
+</entry>
+<entry tags="location">
+<token>Bruchion</token>
+</entry>
+<entry tags="location">
+<token>Tyras</token>
+</entry>
+<entry tags="location">
+<token>Phoenicia</token>
+</entry>
+<entry tags="location">
+<token>Vagabanta</token>
+</entry>
+<entry tags="location">
+<token>Charinda</token>
+</entry>
+<entry tags="location">
+<token>Ancorarius</token>
+</entry>
+<entry tags="location">
+<token>Dadastana</token>
+</entry>
+<entry tags="location">
+<token>Rodanus</token>
+</entry>
+<entry tags="location">
+<token>Gaza</token>
+</entry>
+<entry tags="location">
+<token>Carmania</token>
+</entry>
+<entry tags="location">
+<token>Patrae</token>
+</entry>
+<entry tags="location">
+<token>Tiber</token>
+</entry>
+<entry tags="location">
+<token>Anthemusia</token>
+</entry>
+<entry tags="location">
+<token>Caesarea</token>
+</entry>
+<entry tags="location">
+<token>Hermopolis</token>
+</entry>
+<entry tags="location">
+<token>Circesium</token>
+</entry>
+<entry tags="location">
+<token>Byzantium</token>
+</entry>
+<entry tags="location">
+<token>Essedon</token>
+</entry>
+<entry tags="location">
+<token>Massilia</token>
+</entry>
+<entry tags="location">
+<token>Phoenice</token>
+</entry>
+<entry tags="location">
+<token>Scythopolis</token>
+</entry>
+<entry tags="location">
+<token>Londinium</token>
+</entry>
+<entry tags="location">
+<token>Berytus</token>
+</entry>
+<entry tags="location">
+<token>Tyana</token>
+</entry>
+<entry tags="location">
+<token>PistoIa</token>
+</entry>
+<entry tags="location">
+<token>Tabiana</token>
+</entry>
+<entry tags="location">
+<token>Sera</token>
+</entry>
+<entry tags="location">
+<token>Susa</token>
+</entry>
+<entry tags="location">
+<token>Lamforctense</token>
+</entry>
+<entry tags="location">
+<token>Lutetia</token>
+</entry>
+<entry tags="location">
+<token>Besbicus</token>
+</entry>
+</dictionary>

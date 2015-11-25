@@ -1,0 +1,24 @@
+
+This folder contains two dictionaries.
+Both are derived from Pleiades, namely the "names" table.
+
+to generate them, use:
+
+<prepare_dict.py> and <pleiades_names_simplified.csv>
+
+ATTENTION: the stemming algorithm used to generate the dictionaries MUST be the same used in the java in method
+"stemString"
+--------
+
+The XML file contains the dictionary used for detection by "dictNamedEntityFinder" method
+
+It contains the stemmed forms according to the specifications of OpenNLP tagdicts.
+Each entity is divided in tokens: one entry per entity, but one token for each token of the entity
+
+--------
+
+the CSV file cpntains the NEL dictionary
+
+it contains a unique key, a stemmed entity name, and several possible links
+
+Thus Alexandiri(a) will be present once, but with all possible links next to it.
